@@ -1,0 +1,8 @@
+{
+    "guid": "registry_develop",
+    "repository": {
+        "type": "git",
+        "branch": "master",
+        "url": "https://github.com/dirigiblelabs/registry_develop.git"
+    }
+}
